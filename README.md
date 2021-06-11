@@ -1,3 +1,5 @@
+![linter and tests](https://github.com/yulia633/my-simple-starter/workflows/linter%20and%20tests/badge.svg)
+
 # Стартовый проект php
 
 Небольшой стартовый шаблон **php** для учебных проектов. Настроены Unit тесты, покрытие тестов, быстрый запуск скриптов в Makefile, Action GitHub.
